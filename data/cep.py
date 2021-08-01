@@ -48,4 +48,4 @@ if "erro" not in address_data:
     elif op == "2":
     	os.system("python3 main.py")
 else:
-	os.system("python3 cep.py")k
+	os.system("python3 cep.py")
