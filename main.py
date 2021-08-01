@@ -4,7 +4,7 @@ import requests
 from data import cep,ip,covid,cpf_gerar,cnpj
 os.system("clear")
 os.system("pkg install figlet")
-os.system("pip install requests")
+os.system("python3 main.py")
 os.system("clear")
 print("\033[1;36m")
 print("""
