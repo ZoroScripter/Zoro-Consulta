@@ -34,18 +34,15 @@ op = input(">>> ")
 
 #chamando as Consultas!!
 if op == "1":
-	os.system("python3 cep.py")
+	cep.consultar()
 elif op == "2":
-	os.system("python3 ip.py")
+	ip.consultar()
 elif op == "3":
-	os.system("clear")
-	os.system("figlet Zoro")
-	print("\033[1;33mDigite O estado Para Saber A situação Da Covid!!")
-	os.system("python3 covid.py")
+	covid.consultar()
 elif op == "4":
-    os.system("python3 cpf_gerar.py")
+    cpf_gerar.consultar()
 elif op == "5":
-    os.system("python3 cnpj.py")
+    cnpj.consultar()
 elif op == "6":
 	os.system("clear")
 	time.sleep(2)
