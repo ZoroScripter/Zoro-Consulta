@@ -1,7 +1,6 @@
 import os
 import time
 import requests
-from data import covid,ip,covid,cpf_gerar,cep
 
 os.system("clear")
 os.system("pkg install figlet")
