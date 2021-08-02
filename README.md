@@ -2,7 +2,7 @@
 # Zoro-Consulta
 
 #COMANDO..
-'''
+
 $ pkg update
 
 $ pkg upgrade
@@ -33,4 +33,4 @@ $ python3 main.py
 #========================
 
 #TODAS AS CONSULTAS ESTÃO FUNCIONANDO!!
-'''
+
